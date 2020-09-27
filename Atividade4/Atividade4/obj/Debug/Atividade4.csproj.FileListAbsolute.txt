@@ -1,0 +1,10 @@
+C:\Users\Vinaamancio\Desktop\Atividade4\Atividade4\bin\Debug\Atividade4.exe.config
+C:\Users\Vinaamancio\Desktop\Atividade4\Atividade4\bin\Debug\Atividade4.exe
+C:\Users\Vinaamancio\Desktop\Atividade4\Atividade4\bin\Debug\Atividade4.pdb
+C:\Users\Vinaamancio\Desktop\Atividade4\Atividade4\obj\Debug\Atividade4.csprojAssemblyReference.cache
+C:\Users\Vinaamancio\Desktop\Atividade4\Atividade4\obj\Debug\Atividade4.Form1.resources
+C:\Users\Vinaamancio\Desktop\Atividade4\Atividade4\obj\Debug\Atividade4.Properties.Resources.resources
+C:\Users\Vinaamancio\Desktop\Atividade4\Atividade4\obj\Debug\Atividade4.csproj.GenerateResource.cache
+C:\Users\Vinaamancio\Desktop\Atividade4\Atividade4\obj\Debug\Atividade4.csproj.CoreCompileInputs.cache
+C:\Users\Vinaamancio\Desktop\Atividade4\Atividade4\obj\Debug\Atividade4.exe
+C:\Users\Vinaamancio\Desktop\Atividade4\Atividade4\obj\Debug\Atividade4.pdb
